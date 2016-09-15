@@ -206,6 +206,46 @@ Cofondateur et directeur de la technologie de Google
 
 -----------------
 
+# Convertissez en hexadécimal 2, 5, 12, 25, 512
+
+### 2 
+
+32
+
+### 5
+
+35
+
+### 12
+
+31
+
+### 25
+
+32
+
+### 512
+
+35
+
+[ma calculatrice](https://www.ma-calculatrice.fr/convertir-binaire-hexadecimal.php)
+
+-----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
