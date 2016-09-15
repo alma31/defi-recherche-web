@@ -78,7 +78,26 @@ difficile de realiser uniquement une tache a la fois quand on est adepte du mult
 
 -----------------
 
-Qu’est-ce qu’Amazon Web Services - AWS ?
+# Qu’est-ce qu’Amazon Web Services - AWS ?
+
+Amazon web service et une branche du groupe americain amazone.com, dedier au service de cloud computing pour les entreprise et particulier.
+
+> Amazon Web Services occupe le premier rang des acteurs du cloud computing, avec 31% de parts de marché, distançant largement des acteurs informatiques traditionnels comme Microsoft (11%) ou IBM (7%).
+
+Parmi ses grands clients figurent la NASA, Netflix et le service de renseignement extérieur américain (CIA).
+
+Les offres Amazon Web Services sont accessibles en HTTP, sur architecture REST et par le protocole SOAP. Tout est facturé en fonction de l'utilisation, avec la valeur exacte variant de service à service, ou selon la zone géographique d'appel.
+
+[wikipedia amazone web service](https://fr.wikipedia.org/wiki/Amazon_Web_Services)
+[aws.amazone](https://aws.amazon.com/fr/)
+
+-----------------
+
+
+
+
+
+
 
 
 
