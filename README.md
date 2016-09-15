@@ -147,6 +147,19 @@ les extensions les plus courantes.
 
 -----------------
 
+# Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+
+694 445 recherches sur Google. Toutes les 60 secondes. Soit environ 1 milliard par jour.
+
+[nextinpact](http://www.nextinpact.com/archive/64113-internet-60-secondes-emails-google-facebook.htm)
+
+-----------------
+
+
+
+
+
+
 
 
 
