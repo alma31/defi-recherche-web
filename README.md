@@ -130,6 +130,30 @@ Il equipe pret de 2% des ordinateur personnel en
 
 -----------------
 
+# Qu'est-ce qu'une Cheatsheet ?
+
+une cheatsheet et une anti seche ( un document rediger a l'avance pour eviter de secher).
+
+> En informatique, la cheatsheet, littéralement « feuille de triche », est très souvent utilisée pour avoir une panoplie des mots-clefs les plus utiles sous la main. Ce document est construit pour être très court (une feuille A4 habituellement) et nécessite de connaitre les bases du sujet qu'il traite.
+
+Par exemple, pour un langage de programmation, on y trouvera :
+
+les concepts fondamentaux du langage (structures, contrôles, ...) ;
+la façon de déclarer des variables ;
+les fonctions les plus utiles (sur les tableaux, les objets, les fichiers, ...) ;
+les extensions les plus courantes.
+
+[wikipedia cheatsheet](https://fr.wikipedia.org/wiki/Antis%C3%A8che)
+
+-----------------
+
+
+
+
+
+
+
+
 
 
 
