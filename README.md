@@ -159,9 +159,24 @@ les extensions les plus courantes.
 
 Les joies du code et le fait de pouvoir coder un site ou une application utiliser par d'autre personne et de pouvoir crée des project numerique.
 
-c'est aussi un site internet 
+c'est aussi un site internet [les joies du code](http://lesjoiesducode.fr/)
 
-[les joies du code](http://lesjoiesducode.fr/)
+
+-----------------
+
+# Qui sont Larry Page et Sergey Brin ?
+
+### Larry Page 
+
+Cofondateur et président des produits de Google
+
+[wikipedia Larry Page](https://fr.wikipedia.org/wiki/Larry_Page)
+
+### Sergey Brin 
+
+[wikipedia Sergey Brin](https://fr.wikipedia.org/wiki/Sergey_Brin)
+
+Cofondateur et directeur de la technologie de Google
 
 -----------------
 
