@@ -4,6 +4,8 @@
 
 [wikipedia internet](https://fr.wikipedia.org/wiki/Internet#Technique)
 
+-----------------
+
 # Qu’est-ce que KISS ?
 
 > Le kiss dans le domaine du web c’est tout simplement aller à l’essentiel, abandonner les surplus de fonctionnalités inutiles qui alourdiront graphiquement et mécaniquement vos applications…
@@ -17,6 +19,37 @@
 
 [wikipedia Principe KISS](https://fr.wikipedia.org/wiki/Principe_KISS) 
 
-# Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ? 
+-----------------
+
+# Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
+
+Oui, un antivirus et utile sous windows, mac ou linux car aucun systeme n'est a l'abri de virus.
+l'antivirus et un plus pour proteger nos systeme, mais la vigilence humaine et aussi de rigeur.
+
+> Contrairement à une idée largement répandue et savamment entretenue par les publicités Apple, Mac OS X n’est pas totalement à l’abri des virus et certainement pas à l’abri de toute agression, comme nous allons le voir.
+
+Sans être alarmiste, dire qu’un antivirus est inutile sur Mac, comme on le lit et l’entend souvent, serait aller un peu vite. Il est important de comprendre que :
+
+les virus ne sont qu’une sous-catégorie de malware (programme malveillant) susceptible d’infecter nos Macs.
+un bon “antivirus” ne se limite pas à la détection des virus au sens strict, mais à toute forme de malware.
+
+[securiter mac](http://www.securitemac.com/antivirus-mac)
+
+Sous linux un antivirus aussi et recommandé 
+
+> Linux est cité comme l’un des systèmes d’exploitation les plus sécurisés au monde. Il est présenté comme une solution robuste et durable auprès des professionnels et des particuliers. Son adoption est en hausse en particulier au travers de distributions qui ne cessent de gagner en efficacité, fonctionnalité et convivialité.
+Si dans l’avenir cet environnement continue son épanouissement,  il devient intéressant de connaitre dès à présent la pertinence de certaines solutions anti-virus dédiées car même si le noyau du système se montre souvent sans trop de failles, le danger est aussi lié aux erreurs de l’utilisateur qui, par mégarde ou ignorance, peut infecter des systèmes en installant des applications tierces vérolées.
+
+[ginjfo](http://www.ginjfo.com/actualites/logiciels/linux/linux-les-anti-virus-recommandes-par-la-communaute-sont-les-plus-mauvais-selon-av-test-20151005)
+
+-----------------
+
+# En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
+
+
+
+
+
+
 
 
