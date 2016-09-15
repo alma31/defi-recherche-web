@@ -46,6 +46,46 @@ Si dans l’avenir cet environnement continue son épanouissement,  il devient i
 
 # En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 
+la méthode pomodoro et une methode pour améliorer la productivité il faut etablir la liste du chose a faire.
+la premiere chose a faire et de focaliser son attention pendant 25 minutes sur cette tache a faire 
+
+> Vous n’avez pas la possibilité d’interrompe cette activité pour autre chose et vous ne pouvez pas non plus la prolonger même si vous pensez qu’il vous reste quelques secondes pour la finaliser.
+
+ensuite s'accorder une pause de 3 a 5 minutes max 
+
+> Le but de cette pause est de ne rien faire de stimulant, vous devez vous relaxer. Puis vous reprenez une session de 25 min.
+
+apres 4 session vous devez vous accorder une pose de 15 a 25 minutes 
+
+> Cette pause doit vous permettre de lire vos mails, écouter vos messages, prendre un café, etc…
+
+## Les avantages et les inconvénients de la méthode POMODORO.
+
+### avantage 
+
+simple
+pas besoin de logiciel, materiel...
+concentration
+évite la proscrastination
+
+### inconvénients
+
+difficile de tenir 25 minutes (trop court ou trop long)
+difficile de prendre réellement une pause ( de ne rien faire du tout)
+difficile de realiser uniquement une tache a la fois quand on est adepte du multitache.
+
+[blog.valoxy](http://blog.valoxy.org/methode-pomodoro/)
+
+-----------------
+
+Qu’est-ce qu’Amazon Web Services - AWS ?
+
+
+
+
+
+
+
 
 
 
