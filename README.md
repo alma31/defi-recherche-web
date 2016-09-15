@@ -180,6 +180,34 @@ Cofondateur et directeur de la technologie de Google
 
 -----------------
 
+# Convertissez en binaire 2, 5, 12, 25, 512
+
+### 2 
+
+00110010 
+
+### 5
+
+00110101 
+
+### 12 
+
+00110001 00110010 
+
+### 25
+
+00110010 00110101 
+
+### 512
+
+00110101 00110001 00110010
+
+[usefulwebtool](http://usefulwebtool.com/fr/convertir-texte-en-binaire.php)
+
+-----------------
+
+
+
 
 
 
