@@ -155,6 +155,19 @@ les extensions les plus courantes.
 
 -----------------
 
+# Qu’est-ce que les joies du code ?
+
+Les joies du code et le fait de pouvoir coder un site ou une application utiliser par d'autre personne et de pouvoir crée des project numerique.
+
+c'est aussi un site internet 
+
+[les joies du code](http://lesjoiesducode.fr/)
+
+-----------------
+
+
+
+
 
 
 
