@@ -111,6 +111,34 @@ Le 10 août 2015, il devient le nouveau PDG de Google à la suite de la restruct
 
 -----------------
 
+# Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+
+### Microsoft windows 
+
+Il equipe pret de 90% des ordinateur personnel en 2014
+
+### Mac OSX
+
+Il equipe pret de 10% des ordinateur personnel en 2014
+
+### Linux
+
+Il equipe pret de 2% des ordinateur personnel en 
+
+
+[wikipedia systeme](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation#/media/File:2014_Parts_des_syst%C3%A8mes_d%27exploitation_PC.PNG)
+
+-----------------
+
+
+
+
+
+
+
+
+
+
 
 
 
